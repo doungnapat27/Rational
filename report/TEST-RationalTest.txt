@@ -1,0 +1,38 @@
+Testsuite: RationalTest
+Tests run: 35, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 sec
+
+Testcase: testEquals2 took 0.005 sec
+Testcase: testEquals3 took 0 sec
+Testcase: testEquals4 took 0 sec
+Testcase: testCompareTo2 took 0 sec
+Testcase: testCompareTo3 took 0 sec
+Testcase: testCompareTo4 took 0 sec
+Testcase: testAdd took 0 sec
+Testcase: testSubtract took 0 sec
+Testcase: testAdd2 took 0 sec
+Testcase: testAdd3 took 0 sec
+Testcase: testAdd4 took 0 sec
+Testcase: testToString took 0.002 sec
+Testcase: testCompareTo took 0 sec
+Testcase: testMultiply2 took 0 sec
+Testcase: testMultiply3 took 0 sec
+Testcase: testMultiply4 took 0 sec
+Testcase: testToString10 took 0 sec
+Testcase: testToString11 took 0 sec
+Testcase: testToString12 took 0 sec
+Testcase: testSubtract2 took 0 sec
+Testcase: testSubtract3 took 0 sec
+Testcase: testSubtract4 took 0 sec
+Testcase: testDivide2 took 0 sec
+Testcase: testDivide3 took 0 sec
+Testcase: testDivide took 0 sec
+Testcase: testEquals took 0 sec
+Testcase: testMultiply took 0 sec
+Testcase: testToString2 took 0 sec
+Testcase: testToString3 took 0 sec
+Testcase: testToString4 took 0 sec
+Testcase: testToString5 took 0 sec
+Testcase: testToString6 took 0 sec
+Testcase: testToString7 took 0 sec
+Testcase: testToString8 took 0 sec
+Testcase: testToString9 took 0 sec

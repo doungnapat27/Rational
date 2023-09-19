@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="INBook_X1_Pro" name="RationalTest" skipped="0" tests="35" time="0.058" timestamp="2023-09-19T14:42:56">
+  <properties>
+    <property name="ant.library.dir" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="17" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Program Files\Java\jdk-17.0.1!\java.base;C:\Program Files\Java\jdk-17.0.1!\java.compiler;C:\Program Files\Java\jdk-17.0.1!\java.datatransfer;C:\Program Files\Java\jdk-17.0.1!\java.desktop;C:\Program Files\Java\jdk-17.0.1!\java.instrument;C:\Program Files\Java\jdk-17.0.1!\java.logging;C:\Program Files\Java\jdk-17.0.1!\java.management;C:\Program Files\Java\jdk-17.0.1!\java.management.rmi;C:\Program Files\Java\jdk-17.0.1!\java.naming;C:\Program Files\Java\jdk-17.0.1!\java.net.http;C:\Program Files\Java\jdk-17.0.1!\java.prefs;C:\Program Files\Java\jdk-17.0.1!\java.rmi;C:\Program Files\Java\jdk-17.0.1!\java.scripting;C:\Program Files\Java\jdk-17.0.1!\java.se;C:\Program Files\Java\jdk-17.0.1!\java.security.jgss;C:\Program Files\Java\jdk-17.0.1!\java.security.sasl;C:\Program Files\Java\jdk-17.0.1!\java.smartcardio;C:\Program Files\Java\jdk-17.0.1!\java.sql;C:\Program Files\Java\jdk-17.0.1!\java.sql.rowset;C:\Program Files\Java\jdk-17.0.1!\java.transaction.xa;C:\Program Files\Java\jdk-17.0.1!\java.xml;C:\Program Files\Java\jdk-17.0.1!\java.xml.crypto;C:\Program Files\Java\jdk-17.0.1!\jdk.accessibility;C:\Program Files\Java\jdk-17.0.1!\jdk.attach;C:\Program Files\Java\jdk-17.0.1!\jdk.charsets;C:\Program Files\Java\jdk-17.0.1!\jdk.compiler;C:\Program Files\Java\jdk-17.0.1!\jdk.crypto.cryptoki;C:\Program Files\Java\jdk-17.0.1!\jdk.crypto.ec;C:\Program Files\Java\jdk-17.0.1!\jdk.crypto.mscapi;C:\Program Files\Java\jdk-17.0.1!\jdk.dynalink;C:\Program Files\Java\jdk-17.0.1!\jdk.editpad;C:\Program Files\Java\jdk-17.0.1!\jdk.hotspot.agent;C:\Program Files\Java\jdk-17.0.1!\jdk.httpserver;C:\Program Files\Java\jdk-17.0.1!\jdk.incubator.foreign;C:\Program Files\Java\jdk-17.0.1!\jdk.incubator.vector;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.ed;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.jvmstat;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.le;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.opt;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.vm.ci;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.vm.compiler;C:\Program Files\Java\jdk-17.0.1!\jdk.internal.vm.compiler.management;C:\Program Files\Java\jdk-17.0.1!\jdk.jartool;C:\Program Files\Java\jdk-17.0.1!\jdk.javadoc;C:\Program Files\Java\jdk-17.0.1!\jdk.jcmd;C:\Program Files\Java\jdk-17.0.1!\jdk.jconsole;C:\Program Files\Java\jdk-17.0.1!\jdk.jdeps;C:\Program Files\Java\jdk-17.0.1!\jdk.jdi;C:\Program Files\Java\jdk-17.0.1!\jdk.jdwp.agent;C:\Program Files\Java\jdk-17.0.1!\jdk.jfr;C:\Program Files\Java\jdk-17.0.1!\jdk.jlink;C:\Program Files\Java\jdk-17.0.1!\jdk.jpackage;C:\Program Files\Java\jdk-17.0.1!\jdk.jshell;C:\Program Files\Java\jdk-17.0.1!\jdk.jsobject;C:\Program Files\Java\jdk-17.0.1!\jdk.jstatd;C:\Program Files\Java\jdk-17.0.1!\jdk.localedata;C:\Program Files\Java\jdk-17.0.1!\jdk.management;C:\Program Files\Java\jdk-17.0.1!\jdk.management.agent;C:\Program Files\Java\jdk-17.0.1!\jdk.management.jfr;C:\Program Files\Java\jdk-17.0.1!\jdk.naming.dns;C:\Program Files\Java\jdk-17.0.1!\jdk.naming.rmi;C:\Program Files\Java\jdk-17.0.1!\jdk.net;C:\Program Files\Java\jdk-17.0.1!\jdk.nio.mapmode;C:\Program Files\Java\jdk-17.0.1!\jdk.random;C:\Program Files\Java\jdk-17.0.1!\jdk.sctp;C:\Program Files\Java\jdk-17.0.1!\jdk.security.auth;C:\Program Files\Java\jdk-17.0.1!\jdk.security.jgss;C:\Program Files\Java\jdk-17.0.1!\jdk.unsupported;C:\Program Files\Java\jdk-17.0.1!\jdk.unsupported.desktop;C:\Program Files\Java\jdk-17.0.1!\jdk.xml.dom;C:\Program Files\Java\jdk-17.0.1!\jdk.zipfs;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib\ant.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\idea_rt.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="user.country.format" value="001" />
+    <property name="os.name" value="Windows 10" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile C:\Y4_Sem1\QA\Rational\build.xml test" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\misti" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2021-10-19" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.1" />
+    <property name="basedir" value="C:\Y4_Sem1\QA\Rational" />
+    <property name="file.separator" value="\" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="17" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39" />
+    <property name="user.name" value="misti" />
+    <property name="ant.file" value="C:\Y4_Sem1\QA\Rational\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.core.lib" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\misti\AppData\Local\Temp\" />
+    <property name="java.version" value="17.0.1" />
+    <property name="user.dir" value="C:\Y4_Sem1\QA\Rational" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="native.encoding" value="Cp1252" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Graphviz\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\MATLAB\R2021b\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Dev-Cpp\MinGW64\bin;C:\Program Files\CodeBlocks\MinGW\bin;C:\Program Files (x86)\GnuWin32\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\misti\AppData\Roaming\npm;C:\Users\misti\AppData\Local\emsdk;C:\Users\misti\AppData\Local\emsdk\upstream\emscripten;C:\flutter_windows_3.3.10-stable\flutter\bin;C:\Users\misti\AppData\Local\Microsoft\WindowsApps;C:\Users\misti\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin;;C:\GnuWin32\bin;C:\Users\misti\AppData\Local\Programs\Microsoft VS Code\bin;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="17.0.1+12-LTS-39" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="61.0" />
+  </properties>
+  <testcase classname="RationalTest" name="testEquals2" time="0.007" />
+  <testcase classname="RationalTest" name="testEquals3" time="0.0" />
+  <testcase classname="RationalTest" name="testEquals4" time="0.0" />
+  <testcase classname="RationalTest" name="testCompareTo2" time="0.0" />
+  <testcase classname="RationalTest" name="testCompareTo3" time="0.0" />
+  <testcase classname="RationalTest" name="testCompareTo4" time="0.0" />
+  <testcase classname="RationalTest" name="testAdd" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract" time="0.0" />
+  <testcase classname="RationalTest" name="testAdd2" time="0.0" />
+  <testcase classname="RationalTest" name="testAdd3" time="0.0" />
+  <testcase classname="RationalTest" name="testAdd4" time="0.0" />
+  <testcase classname="RationalTest" name="testToString" time="0.003" />
+  <testcase classname="RationalTest" name="testCompareTo" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply2" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply3" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply4" time="0.0" />
+  <testcase classname="RationalTest" name="testToString10" time="0.0" />
+  <testcase classname="RationalTest" name="testToString11" time="0.001" />
+  <testcase classname="RationalTest" name="testToString12" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract2" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract3" time="0.0" />
+  <testcase classname="RationalTest" name="testSubtract4" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide2" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide3" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide" time="0.0" />
+  <testcase classname="RationalTest" name="testEquals" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply" time="0.0" />
+  <testcase classname="RationalTest" name="testToString2" time="0.0" />
+  <testcase classname="RationalTest" name="testToString3" time="0.001" />
+  <testcase classname="RationalTest" name="testToString4" time="0.0" />
+  <testcase classname="RationalTest" name="testToString5" time="0.0" />
+  <testcase classname="RationalTest" name="testToString6" time="0.0" />
+  <testcase classname="RationalTest" name="testToString7" time="0.0" />
+  <testcase classname="RationalTest" name="testToString8" time="0.0" />
+  <testcase classname="RationalTest" name="testToString9" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
